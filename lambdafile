@@ -1,4 +1,4 @@
-#Download and install all dependencies
+#Download and install all dependencies 
 npm install
 #Build src into bundle dir
 npm run build

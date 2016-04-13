@@ -42,7 +42,7 @@
     "lint": "eslint src test",
     "deploy": "gulp deploy",
     "dev": "npm test -- --watch",
-    "build": "babel src -d bundle"
+    "build": "babel src -d bundle"    
   },
   "author": "Clevergy D.R.T.C. <clevergydrtc@gmail.com>",
   "license": "Apache-2.0"
